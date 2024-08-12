@@ -12,23 +12,47 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Quinquim
-build_property.ProjectDir = C:\Users\Aluno\Desktop\fluxograma-main\
+build_property.ProjectDir = C:\Users\Aluno\fluxograma\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/Aluno/Desktop/fluxograma-main/App.xaml]
+[C:/Users/Aluno/fluxograma/AcabamentoPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Quinquim.AcabamentoPage.xaml
+build_metadata.AdditionalFiles.TargetPath = AcabamentoPage.xaml
+build_metadata.AdditionalFiles.RelativePath = AcabamentoPage.xaml
+
+[C:/Users/Aluno/fluxograma/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Quinquim.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/Aluno/Desktop/fluxograma-main/AppShell.xaml]
+[C:/Users/Aluno/fluxograma/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Quinquim.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/Aluno/Desktop/fluxograma-main/MainPage.xaml]
+[C:/Users/Aluno/fluxograma/CadrastroPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Quinquim.CadrastroPage.xaml
+build_metadata.AdditionalFiles.TargetPath = CadrastroPage.xaml
+build_metadata.AdditionalFiles.RelativePath = CadrastroPage.xaml
+
+[C:/Users/Aluno/fluxograma/ClientePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Quinquim.ClientePage.xaml
+build_metadata.AdditionalFiles.TargetPath = ClientePage.xaml
+build_metadata.AdditionalFiles.RelativePath = ClientePage.xaml
+
+[C:/Users/Aluno/fluxograma/CompraEstoquePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Quinquim.CompraEstoquePage.xaml
+build_metadata.AdditionalFiles.TargetPath = CompraEstoquePage.xaml
+build_metadata.AdditionalFiles.RelativePath = CompraEstoquePage.xaml
+
+[C:/Users/Aluno/fluxograma/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Quinquim.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
