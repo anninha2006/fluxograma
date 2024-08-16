@@ -8,7 +8,15 @@ public class Costura
    string Ganchof;
    string Ganchob;
    string Bocas;
-   
+  public void SetPecas(string Pecas)
+
+{
+    this.Pecas = Pecas;
+}
+public string GetPecas()
+{
+    return Pecas;
+} 
    public void SetBolso(string Bolso)
 
 {
