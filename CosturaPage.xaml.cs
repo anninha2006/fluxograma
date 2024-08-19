@@ -1,7 +1,7 @@
 using System.Collections.ObjectModel;
 using Microsoft.Maui.Controls;
 
-namespace charles
+namespace Quinquim
 {
     public partial class CosturaPage : ContentPage
     {

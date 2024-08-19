@@ -33,7 +33,7 @@
                 CornerRadius="5"
                 Margin="5"/>
 
-        <Label Text="Status:Pronto para Cortar" 
+        <Label Text="Status: Pronto para Cortar" 
                FontSize="14" 
                HorizontalOptions="Center" 
                Margin="10"/>

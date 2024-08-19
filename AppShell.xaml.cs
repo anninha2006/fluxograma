@@ -1,4 +1,4 @@
-﻿namespace Quinquim;
+﻿namespace Quinquim
 
 public partial class AppShell : Shell
 {

@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 
-namespace charles;
+namespace Quinquim;
 
 public static class MauiProgram
 {

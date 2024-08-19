@@ -1,6 +1,6 @@
-using charles.Modelos;
+using Quinquim.Modelos;
 
-namespace charles;
+namespace Quinquim;
 public partial class ListaClientesPage : ContentPage
 {
   Controles.ClienteControle clienteControle = new Controles.ClienteControle();

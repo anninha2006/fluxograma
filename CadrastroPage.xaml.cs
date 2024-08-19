@@ -1,6 +1,6 @@
 using Microsoft.Maui.Controls;
 
-namespace charles
+namespace Quinquim
 {
     public partial class CadastroPage : ContentPage
     {

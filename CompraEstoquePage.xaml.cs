@@ -1,6 +1,6 @@
 using Microsoft.Maui.Controls;
 
-namespace Charles
+namespace Quinquim
 {
     public partial class CompraEstoquePage : ContentPage
     {

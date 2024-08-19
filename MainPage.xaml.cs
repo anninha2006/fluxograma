@@ -1,4 +1,4 @@
-﻿namespace charles;
+﻿namespace Quinquim;
 
 public partial class MainPage : ContentPage
 {
