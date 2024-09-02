@@ -1,0 +1,113 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Quinquim
+build_property.ProjectDir = C:\Users\Aluno\fluxograma\Fluxograma\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/Aluno/fluxograma/Fluxograma/AcabamentoPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Quinquim.AcabamentoPage.xaml
+build_metadata.AdditionalFiles.TargetPath = AcabamentoPage.xaml
+build_metadata.AdditionalFiles.RelativePath = AcabamentoPage.xaml
+
+[C:/Users/Aluno/fluxograma/Fluxograma/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Quinquim.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Aluno/fluxograma/Fluxograma/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Quinquim.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Aluno/fluxograma/Fluxograma/CadrastroPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Quinquim.CadrastroPage.xaml
+build_metadata.AdditionalFiles.TargetPath = CadrastroPage.xaml
+build_metadata.AdditionalFiles.RelativePath = CadrastroPage.xaml
+
+[C:/Users/Aluno/fluxograma/Fluxograma/ClientePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Quinquim.ClientePage.xaml
+build_metadata.AdditionalFiles.TargetPath = ClientePage.xaml
+build_metadata.AdditionalFiles.RelativePath = ClientePage.xaml
+
+[C:/Users/Aluno/fluxograma/Fluxograma/CompraEstoquePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Quinquim.CompraEstoquePage.xaml
+build_metadata.AdditionalFiles.TargetPath = CompraEstoquePage.xaml
+build_metadata.AdditionalFiles.RelativePath = CompraEstoquePage.xaml
+
+[C:/Users/Aluno/fluxograma/Fluxograma/CortePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Quinquim.CortePage.xaml
+build_metadata.AdditionalFiles.TargetPath = CortePage.xaml
+build_metadata.AdditionalFiles.RelativePath = CortePage.xaml
+
+[C:/Users/Aluno/fluxograma/Fluxograma/CosturaPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Quinquim.CosturaPage.xaml
+build_metadata.AdditionalFiles.TargetPath = CosturaPage.xaml
+build_metadata.AdditionalFiles.RelativePath = CosturaPage.xaml
+
+[C:/Users/Aluno/fluxograma/Fluxograma/DespachePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Quinquim.DespachePage.xaml
+build_metadata.AdditionalFiles.TargetPath = DespachePage.xaml
+build_metadata.AdditionalFiles.RelativePath = DespachePage.xaml
+
+[C:/Users/Aluno/fluxograma/Fluxograma/FiacaoPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Quinquim.FiacaoPage.xaml
+build_metadata.AdditionalFiles.TargetPath = FiacaoPage.xaml
+build_metadata.AdditionalFiles.RelativePath = FiacaoPage.xaml
+
+[C:/Users/Aluno/fluxograma/Fluxograma/LavagemPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Quinquim.LavagemPage.xaml
+build_metadata.AdditionalFiles.TargetPath = LavagemPage.xaml
+build_metadata.AdditionalFiles.RelativePath = LavagemPage.xaml
+
+[C:/Users/Aluno/fluxograma/Fluxograma/ListaClientesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Quinquim.ListaClientesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ListaClientesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ListaClientesPage.xaml
+
+[C:/Users/Aluno/fluxograma/Fluxograma/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Quinquim.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/Aluno/fluxograma/Fluxograma/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Quinquim.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Aluno/fluxograma/Fluxograma/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Quinquim.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/Aluno/fluxograma/Fluxograma/StatusPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Quinquim.StatusPage.xaml
+build_metadata.AdditionalFiles.TargetPath = StatusPage.xaml
+build_metadata.AdditionalFiles.RelativePath = StatusPage.xaml
