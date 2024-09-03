@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Quinquim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+83bb2816ef1e2873237d7cac95779f7384a91498")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+9bcdc202a112a1ae444481f656bc209358ac0035")]
 [assembly: System.Reflection.AssemblyProductAttribute("Quinquim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Quinquim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

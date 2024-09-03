@@ -1,9 +1,12 @@
 using Microsoft.Maui.Controls;
-
-namespace Quinquim
+using Fluxograma.Modelos;
+namespace Fluxograma
 {
     public partial class CadastroPage : ContentPage
     {
+        Controles.ClienteControle clienteControle = new Controles.ClienteControle();
+        public Fluxograma.Modelos.Cliente cliente = new Fluxograma.Modelos.Cliente();
+
         public CadastroPage()
         {
             InitializeComponent();

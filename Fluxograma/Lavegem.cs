@@ -11,7 +11,7 @@ public class Lavagem
   public void SetNome(string Nome)
 
 {
-    this.Nome = Nome;
+    Nome = Nome;
 }
 public string GetNome()
 {
@@ -20,7 +20,7 @@ public string GetNome()
 public void SetId(Int64 Id)
 
 {
-    this.Id = Id;
+    Id = Id;
 }
 public Int64 GetId()
 {
@@ -29,7 +29,7 @@ public Int64 GetId()
 public void SetQt(Int64 Qt)
 
 {
-    this.Qt = Qt;
+    Qt = Qt;
 }
 public Int64 GetQt()
 {
@@ -38,10 +38,10 @@ public Int64 GetQt()
 public void SetTecido(string Tecido)
 
 {
-    this.Tecido = Tecido;
+    TipoTecido = Tecido;
 }
 public string GetTecido()
 {
-    return Tecido;
+    return TipoTecido;
 }
 }

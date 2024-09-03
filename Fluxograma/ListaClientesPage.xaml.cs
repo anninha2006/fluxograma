@@ -1,7 +1,7 @@
 using Fluxograma.Modelos;
-using Quinquim;
+using Fluxograma;
 
-namespace LiteDBExample;
+namespace Fluxograma;
 public partial class ListaClientesPage : ContentPage
 {
   Controles.ClienteControle clienteControle = new Controles.ClienteControle();
